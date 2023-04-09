@@ -32,7 +32,9 @@ and of course Raspberry Pi W
 # Let's do this !
 
 First you must connect all. Check image how to do this.
+
 <IMG src="web_server_LED_ds18b20.png">
+
 Download all drivers and libraries. Save them into rpi pico.
 
 Use my `main.py` code. Change WIFI ssid and password. Now you can run it ! 
