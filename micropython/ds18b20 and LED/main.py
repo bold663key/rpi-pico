@@ -5,8 +5,8 @@ from picozero import pico_temp_sensor, pico_led, LED
 import machine, onewire, ds18x20
 from machine import Pin
 
-ssid = 'rpi'
-password = 'samochody1R'
+ssid = 'YOUR SSID'
+password = 'YOUR PASSWORD'
 
 led = LED(13)
 
