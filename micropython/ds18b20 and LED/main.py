@@ -49,12 +49,12 @@ def webpage(temperature, state):
             <!DOCTYPE html>
             <html>
             <form action="./lighton">
-            <input type="submit" value="Dioda ON" />
+            <input type="submit" value="LED ON" />
             </form>
             <form action="./lightoff">
-            <input type="submit" value="Dioda OFF" />
+            <input type="submit" value="LED OFF" />
             </form>
-            <p>Dioda jest {state}</p>
+            <p>LED is {state}</p>
             <p>Temperature is {temperature}</p>
             </body>
             </html>
