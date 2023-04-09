@@ -32,7 +32,7 @@ and of course Raspberry Pi W
 # Let's do this !
 
 First you must connect all. Check image how to do this.
-![alt text](web_server_LED_ds18b20.png)
+![Schemat](https://github.com/bold663key/rpi-pico/blob/main/micropython/ds18b20%20and%20LED/web_server_LED_ds18b20.png)
 
 Download all drivers and libraries. Save them into rpi pico.
 
