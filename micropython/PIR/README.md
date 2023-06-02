@@ -23,21 +23,14 @@ and of course Raspberry Pi Pico ;-)
 # Let's do this !
 
 First you must connect all. Check image how to do this.
-![Schemat](https://github.com/bold663key/rpi-pico/blob/main/micropython/ds18b20%20and%20LED/web_server_LED_ds18b20.png)
+![Schemat](https://github.com/bold663key/rpi-pico/blob/main/micropython/PIR/PIR_LED_and_buzzer.png)
 
 Download all drivers and libraries. Save them into rpi pico.
 
-Use my `main.py` code. Change WIFI ssid and password. Now you can run it ! 
+Use my `PIR.py` code. Now you can run it ! 
 
-You should see blinking onboard led. It means that your rpi pico w try connect to internet. 
+You should see that with the detected movement, the LED begins to light up and the buzzer begins to work
 
-And the last signal is blink your LED diode on GPIO13. It means that your rpi pico successfully connected and now you can see rpi IP address. Copy it and paste in your web browser. 
-
-It's that moment ! You see your website ! 
-
-Click buttons and check that your LED diode is ON or OFF. 
-
-Refresh website to see actual temperature from your DS18B20 sensor.
 ## Authors
 
 - [@bold663key](https://www.github.com/bold663key)
