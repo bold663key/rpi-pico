@@ -1,4 +1,3 @@
 # All projects using RPI Pico
 
-Do tworzenia schematów układów używałem programu KiCAD https://www.kicad.org/ i biblioteki https://github.com/doraemoncito/kicad-rpi-pico
-
+To create layout diagrams I used KiCAD https://www.kicad.org/ and the library https://github.com/doraemoncito/kicad-rpi-pico
